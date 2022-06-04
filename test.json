@@ -1,5 +1,10 @@
-Mishakov Aleksey Valeryevich
-40 years
-12 heads
-2000 $
+{
+"NSF: {"name": "Aleksey",
+"surname": "Mishakov",
+"father_name": "Valeryevich"},
+"age": 29,
+"pets": 12,
+"desired_salary": 2000$
+}
+
 
